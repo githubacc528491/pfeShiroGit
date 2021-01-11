@@ -4,6 +4,6 @@ gunicorn==20.0.4
 itsdangerous==1.1.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
-https://files.pythonhosted.org/packages/ff/4f/d8e286d94e51e4c8eb18cf41caec6ac354698056894192e51f3343b6beac/PyAudio-0.2.11-cp36-cp36m-win_amd64.whl#sha256=2a19bdb8ec1445b4f3e4b7b109e0e4cec1fd1f1ce588592aeb6db0b58d4fb3b0
+https://files.pythonhosted.org/packages/ab/42/b4f04721c5c5bfc196ce156b3c768998ef8c0ae3654ed29ea5020c749a6b/PyAudio-0.2.11.tar.gz
 SpeechRecognition==3.8.1
 Werkzeug==1.0.1
